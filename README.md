@@ -15,7 +15,7 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 |:---:|:---:|
 | (Diseño 3D) | (Manufactura Digital) |
 |asd|asd|
-|aqui escribe su PRESENTACION NONI|Estudiante de Ing. Biomédica con interes en los campos laborales de Biomecánica y Rehabilitación, Ing. Clínica e Ing. de Tejidos. Busco aprender |
+|Estudiante de Ing. Biomédica con interes en las especialidades de Ing. Clínica y Ing. de Tejidos. Me gustaria aprender y adquirir nuevas habilidades que sean utiles para el resto de la carrera y lo que viene despues.|Estudiante de Ing. Biomédica con interes en los campos laborales de Biomecánica y Rehabilitación, Ing. Clínica e Ing. de Tejidos. Busco aprender |
 | <img src="https://example.com/path/to/Aniball.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Ismael.jpeg" width="200" height="240"> |
 
 La temática tratada es sobre *Open Hardware para la salud y los laboratorios*.
