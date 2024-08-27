@@ -15,7 +15,7 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 |:---:|:---:|
 | (Diseño 3D) | (Manufactura Digital) |
 |asd|asd|
-|aqui escribe su PRESENTACION NONI|aqui escribe su PRESENTACION EMIRD|
+|aqui escribe su PRESENTACION NONI|Estudiante de Ing. Biomédica con interes en los campos laborales de Biomecánica y Rehabilitación, Ing. Clínica e Ing. de Tejidos. Busco aprender |
 | <img src="https://example.com/path/to/Aniball.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Ismael.jpeg" width="200" height="240"> |
 
 La temática tratada es sobre *Open Hardware para la salud y los laboratorios*.
