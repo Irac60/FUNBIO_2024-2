@@ -4,7 +4,7 @@
 En esta pagina podras conocer a los integrantes de este equipo, también conocer un poco de cada uno y cual fue su función en el desarrollo del proyecto
 ## Presentación del Equipo
 
- Enmanuel Jauregui Vega | José Gabriel Bardales Villanes | Naun Aldair Cari Quispe |
+|Enmanuel Jauregui Vega | José Gabriel Bardales Villanes | Naun Aldair Cari Quispe |
 |:---:|:---:|:---:|
 | (Coordinador General) | (Diseño Electrónico) | (Prototipado Electrónico) |
 |Encargado de la actualizacion del Git y GitHub, a su vez el mantener una comunicacion entre los asesores y el equipo|||
