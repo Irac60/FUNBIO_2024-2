@@ -7,6 +7,7 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
  Enmanuel Jauregui Vega | José Gabriel Bardales Villanes | Naun Aldair Cari Quispe |
 |:---:|:---:|:---:|
 | (Coordinador General) | (Diseño Electrónico) | (Prototipado Electrónico) |
+|||
 | <img src="https://example.com/path/to/Nikol.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Xiomara.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Andres.jpg" width="200" height="240"> |
 
 | Antoni Edelfre  Flores Mamani | Emir Klaus Olivera Gutierrez |
