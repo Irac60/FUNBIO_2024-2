@@ -14,6 +14,7 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 | Antoni Edelfre  Flores Mamani | Emir Klaus Olivera Gutierrez |
 |:---:|:---:|
 | (Diseño 3D) | (Manufactura Digital) |
+|asd|asd|
 |aqui escribe su PRESENTACION NONI|aqui escribe su PRESENTACION EMIRD|
 | <img src="https://example.com/path/to/Aniball.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Ismael.jpeg" width="200" height="240"> |
 
