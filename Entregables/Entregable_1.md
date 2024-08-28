@@ -51,14 +51,15 @@ Referencia: Zeka, A. N., Tasbakan, S., & Cavusoglu, C. (2011). Evaluation of the
 
 ## Referencia Bibliograficas
 
-[1]Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
-https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
+[1]https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
 
-
-https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
-
-[2]M. V. Villarreal, A. Salazar, F. Quispe, M. Reátegui, and J. Martínez, "Percepción de los profesionales de salud sobre la telemedicina en el contexto de la pandemia COVID-19 en Perú," Revista Peruana de Medicina Experimental y Salud Pública, vol. 38, no. 2, pp. 272-277, 2021. [Online]. Available: https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/. [Accessed: Aug. 27, 2024].
+[2]https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/
 
 [3]https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v32n1/a14v32n1.pdf
 
 [4]https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2022/SE272022/03.pdf
+
+[5]Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
+https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
+
+[6]M. V. Villarreal, A. Salazar, F. Quispe, M. Reátegui, and J. Martínez, "Percepción de los profesionales de salud sobre la telemedicina en el contexto de la pandemia COVID-19 en Perú," Revista Peruana de Medicina Experimental y Salud Pública, vol. 38, no. 2, pp. 272-277, 2021. [Online]. Available: https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/. [Accessed: Aug. 27, 2024].
