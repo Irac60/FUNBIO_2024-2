@@ -40,8 +40,10 @@ Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tubercul
 
 ### 4.2. Factibilidad de una aplicación móvil para el monitoreo de contactos de tuberculosis multidrogorresistente en Perú  
 La telemedicina ha jugado un papel crucial en la atención sanitaria en Perú durante la pandemia de COVID-19, proporcionando una solución efectiva para mantener la continuidad del cuidado y facilitar el acceso a servicios médicos a pesar de la infraestructura limitada y la falta de capacitación. Este enfoque ha demostrado ser valioso para superar barreras geográficas y mejorar la eficiencia en la atención, destacando la necesidad de fortalecer la infraestructura tecnológica y el apoyo para optimizar su uso en el futuro.
-### 4.3.  
+### 4.3.  Robotic microscopy for everyone: the OpenFlexure microscope
+Los microscopios ópticos son de gran importancia en la detección de enfermedades como para los análisis científicos, pero debido a su alto costo su uso es limitado en todo el mundo. Los microscópios OpenFlexure son microscopios de código abierto, impresos en 3D y automatizados. Esta tecnología solventa la necesidad de una fabricación de menor costo y en cantidad.
 
+Joel T. Collins, Joe Knapper, Julian Stirling, Joram Mduda, Catherine Mkindi, Valeriana Mayagaya, Grace A. Mwakajinga, Paul T. Nyakyi, Valerian L. Sanga, Dave Carbery, Leah White, Sara Dale, Zhen Jieh Lim, Jeremy J. Baumberg, Pietro Cicuta, Samuel McDermott, Boyko Vodenicharski, and Richard Bowman, "Robotic microscopy for everyone: the OpenFlexure microscope," Biomed. Opt. Express 11, 2447-2460 (2020)
 
 ### 4.4. GeneXpert MTB/RIF
 El GeneXpert MTB/RIF se ha convertido en una herramienta crucial para el diagnóstico rápido de la tuberculosis. Este no solo detecta el Mycobacterium tuberculosis, sino que también identifica si hay resistencia a rifampicina, un medicamento clave en el tratamiento. Al ofrecer resultados en menos de dos horas, facilita el inicio rápido del tratamiento, algo especialmente valioso en regiones con recursos limitados. Su uso mejora la precisión en la identificación de cepas resistentes y acelera el proceso diagnóstico, contribuyendo significativamente a una mejor gestión de la tuberculosis en todo el mundo.
