@@ -51,7 +51,7 @@ Referencia: Zeka, A. N., Tasbakan, S., & Cavusoglu, C. (2011). Evaluation of the
 
 ## Referencia Bibliograficas
 
-[1][1]Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
+[1]Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
 https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
 
 
@@ -61,4 +61,4 @@ https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
 
 [3]https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v32n1/a14v32n1.pdf
 
-[4]doi: 
+[4]https://www.dge.gob.pe/portal/docs/tools/teleconferencia/2022/SE272022/03.pdf
