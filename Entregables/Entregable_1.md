@@ -34,7 +34,7 @@ La alteración del sistema inmunológico debido a inmunodeficiencias representa 
 
 ## 4. Contexto científico
 ### 4.1.  Artificial Intelligence, Radiology, and Tuberculosis: A Review 
-Debido a la alta mortalidad de la tuberculosis en **países en vías desarrollo o donde existe una deficiente atención médica**, se busca cerrar esa brecha mediante el uso de **inteligencia artificial en el diagnóstico de tuberculosis** mediante radiografías de torax desde un **diagnóstico asistido por computadora hasta algoritmos avanzados**. Se muestra como el desarrollo de esta tecnología podría mejorar la calidad vida en un futuro[1].
+Debido a la alta mortalidad de la tuberculosis en **países en vías desarrollo o donde existe una deficiente atención médica**, se busca cerrar esa brecha mediante el uso de **inteligencia artificial en el diagnóstico de tuberculosis** mediante radiografías de torax desde un **diagnóstico asistido por computadora hasta algoritmos avanzados**. Se muestra como el desarrollo de esta tecnología podría mejorar la calidad vida en un futuro[5].
 
 
 ### 4.2. Factibilidad de una aplicación móvil para el monitoreo de contactos de tuberculosis multidrogorresistente en Perú  
