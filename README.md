@@ -16,7 +16,6 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 | (Diseño 3D) | (Manufactura Digital) |
 |Encargado de realizar los diseños en 3D de los prototipos que se vayan realizando a lo largo del proyecto|Encargado del manejo de la tecnología digital para la mejora y optimización del proyecto|
 |Estudiante de Ing. Biomédica con interes en las especialidades de Ing. Clínica y Ing. de Tejidos. Me gustaria aprender y adquirir nuevas habilidades que sean utiles para el resto de la carrera y lo que viene despues.|Estudiante de Ing. Biomédica con interes en los campos laborales de Biomecánica y Rehabilitación, Ing. Clínica e Ing. de Tejidos. Lo que espero del curso es llevarme conocimiento útil no solo para la carrera, sino para toda la vida.|
-| <img src="https:![antoni](https://github.com/user-attachments/assets/a8ecf509-14df-49c0-abcb-b5e91509b3f2)
-" width="200" height="240"> | <img src="https://example.com/path/to/Ismael.jpeg" width="200" height="240"> |
+| <img src="https:![antoni](https://github.com/user-attachments/assets/a8ecf509-14df-49c0-abcb-b5e91509b3f2)" width="200" height="240"> | <img src="https://example.com/path/to/Ismael.jpeg" width="200" height="240"> |
 
 La temática tratada es sobre *Open Hardware para la salud y los laboratorios*.
