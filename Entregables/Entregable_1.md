@@ -50,8 +50,7 @@ El GeneXpert MTB/RIF se ha convertido en una herramienta crucial para el diagnó
 
 Referencia: Zeka, A. N., Tasbakan, S., & Cavusoglu, C. (2011). Evaluation of the GeneXpert MTB/RIF assay for rapid diagnosis of tuberculosis and detection of rifampin resistance in pulmonary and extrapulmonary specimens. Journal of Clinical Microbiology, 49(12), 4138-4141. https://pubmed.ncbi.nlm.nih.gov/21956978/
 
-
-
+## Referencia Bibliograficas
 
 [1]https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
 
