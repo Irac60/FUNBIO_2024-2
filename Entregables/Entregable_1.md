@@ -11,4 +11,6 @@ Open Hardware, o hardware abierto, es cualquier dispositivo o componente cuyo di
  - Transparencia y seguridad: Puedes revisar y mejorar los diseños.
  - Colaboración e innovación: Más personas pueden contribuir con ideas y mejoras.
  - Ahorro de costos: No necesitas pagar licencias o royalties.
- 
+
+ ## 2. Contexto de la Tuberculosis en el Perú
+La tuberculosis (TB) es una enfermedad que ataca principalmente a los pulmones y q se transmite atra ves del aire. Esta enfermedad es un problema de salud publica y sobre todo en los paises en vias de desarrollo como el nuestro. La mayor parte de los casos de tuberculosis se encuentran en la poblacion que vive en la pobreza extrema y áreas rurales. Tambien es importante destacar que el Perú es uno de los paises con mayor incidencia de TB-MDR, que en su mayoria de casos se encuentran en Lima Metropolitana. 
