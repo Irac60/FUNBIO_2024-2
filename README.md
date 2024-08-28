@@ -12,8 +12,7 @@ En esta pagina podras conocer a los integrantes de este equipo, también conocer
 | <img src="https://example.com/path/to/Nikol.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Xiomara.jpeg" width="200" height="240"> | <img src="https://example.com/path/to/Andres.jpg" width="200" height="240"> |
 
 | Antoni Edelfre  Flores Mamani | Emir Klaus Olivera Gutierrez |
-|![antoni](https://github.com/user-attachments/assets/23371419-f08f-4a97-a13a-8d7f23a175fa)
-|:---:|
+|![antoni](https://github.com/user-attachments/assets/980f2ace-49d3-4010-a1b4-482f6e6ee094)||:---:|
 | (Diseño 3D) | (Manufactura Digital) |
 |Encargado de realizar los diseños en 3D de los prototipos que se vayan realizando a lo largo del proyecto|Encargado del manejo de la tecnología digital para la mejora y optimización del proyecto|
 |Estudiante de Ing. Biomédica con interes en las especialidades de Ing. Clínica y Ing. de Tejidos. Me gustaria aprender y adquirir nuevas habilidades que sean utiles para el resto de la carrera y lo que viene despues.|Estudiante de Ing. Biomédica con interes en los campos laborales de Biomecánica y Rehabilitación, Ing. Clínica e Ing. de Tejidos. Lo que espero del curso es llevarme conocimiento útil no solo para la carrera, sino para toda la vida.|
