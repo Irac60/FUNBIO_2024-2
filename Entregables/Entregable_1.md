@@ -34,8 +34,10 @@ Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tubercul
 ### 4.3.  
 
 
+### 4.4. GeneXpert MTB/RIF
+El GeneXpert MTB/RIF se ha convertido en una herramienta crucial para el diagnóstico rápido de la tuberculosis. Este no solo detecta el Mycobacterium tuberculosis, sino que también identifica si hay resistencia a rifampicina, un medicamento clave en el tratamiento. Al ofrecer resultados en menos de dos horas, facilita el inicio rápido del tratamiento, algo especialmente valioso en regiones con recursos limitados. Su uso mejora la precisión en la identificación de cepas resistentes y acelera el proceso diagnóstico, contribuyendo significativamente a una mejor gestión de la tuberculosis en todo el mundo.
 
-
+Referencia: Zeka, A. N., Tasbakan, S., & Cavusoglu, C. (2011). Evaluation of the GeneXpert MTB/RIF assay for rapid diagnosis of tuberculosis and detection of rifampin resistance in pulmonary and extrapulmonary specimens. Journal of Clinical Microbiology, 49(12), 4138-4141. doi: 10.1128/JCM.05434-11.
 
 
 
@@ -45,3 +47,5 @@ Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tubercul
 [2]https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/
 
 [3]https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v32n1/a14v32n1.pdf
+
+[4]
