@@ -23,6 +23,10 @@ Un total de 129 contactos intradomiciliarios, de 29 CI con TB-MDR, identificados
 
 Acorde a lo publicado por el Ministerio de Salud con datos recolectados del 2019 al 2022, aun con una dismuinución de casos, se presento un incrementeo del porcentaje de casos de TB en población de 40 a 80 años, a su vez tambien, un incremento de proporción de casos de TB resistente en Pasco y Junín [4]
 
+## Diagrama de Ishikawa
+![Inexperience of decision makers (1)](https://github.com/user-attachments/assets/db4040a3-7801-4bf0-af68-a6ab69e2370a)
+
+
 ## 3. Definicion de la problematica
 
 La alteración del sistema inmunológico debido a inmunodeficiencias representa un reto para el diagnóstico de la Tuberculosis 
