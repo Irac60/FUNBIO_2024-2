@@ -23,6 +23,11 @@ Un total de 129 contactos intradomiciliarios, de 29 CI con TB-MDR, identificados
 
 Acorde a lo publicado por el Ministerio de Salud con datos recolectados del 2019 al 2022, aun con una dismuinución de casos, se presento un incrementeo del porcentaje de casos de TB en población de 40 a 80 años, a su vez tambien, un incremento de proporción de casos de TB resistente en Pasco y Junín [4]
 
+## 3. Definicion de la problematica
+
+La alteración del sistema inmunológico debido a inmunodeficiencias representa un reto para el diagnóstico de la Tuberculosis 
+
+
 ## 4. Contexto científico
 ### 4.1.  Artificial Intelligence, Radiology, and Tuberculosis: A Review 
 Debido a la alta mortalidad de la tuberculosis en **países en vías desarrollo o donde existe una deficiente atención médica**, se busca cerrar esa brecha mediante el uso de **inteligencia artificial en el diagnóstico de tuberculosis** mediante radiografías de torax desde un **diagnóstico asistido por computadora hasta algoritmos avanzados**. Se muestra como el desarrollo de esta tecnología podría mejorar la calidad vida en un futuro.
