@@ -41,5 +41,7 @@ Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tubercul
 
 
 [1]https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
+
 [2]https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/
+
 [3]https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v32n1/a14v32n1.pdf
