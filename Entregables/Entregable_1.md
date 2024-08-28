@@ -13,7 +13,7 @@ Open Hardware, o hardware abierto, es cualquier dispositivo o componente cuyo di
  - Ahorro de costos: No necesitas pagar licencias o royalties.
 
  ## 2. Contexto de la Tuberculosis en el Perú
-La tuberculosis (TB) es una enfermedad que ataca principalmente a los pulmones y q se transmite atra ves del aire. Esta enfermedad es un problema de salud publica y sobre todo en los paises en vias de desarrollo como el nuestro. La mayor parte de los casos de tuberculosis se encuentran en la poblacion que vive en la pobreza extrema y áreas rurales.
+La tuberculosis (TB) es una enfermedad que ataca principalmente a los pulmones y que se transmite atra ves del aire. Esta enfermedad es un problema de salud publica y sobre todo en los paises en vias de desarrollo como el nuestro. La mayor parte de los casos de tuberculosis se encuentran en la poblacion que vive en la pobreza extrema y áreas rurales.
 
 En 2013, la incidencia de la tuberculosis en el mundo fue de 126 casos por 100 000 habitantes, en el periodo 2000-2013 disminuye la tasa de incidencia en 1,5 % y el 0,6% de esta reducción corresponde a 2012 y 2013. Todavía se mantienen diferencias en la incidencia de esta enfermedad entre las regiones, el mayor número de casos notificados corresponde a Asia (56 %) y África (29 %), mientras que el menor número de casos están en el Mediterráneo Este (8 %), Europa (4 %) y Las Américas (3 %). En África el 34 % de los casos de tuberculosis está infectado con VIH y en todo el mundo, entre las personas que viven con VIH, el 78 % tiene tuberculosis[1]
 
