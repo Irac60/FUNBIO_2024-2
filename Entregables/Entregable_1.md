@@ -34,8 +34,8 @@ Debido a la alta mortalidad de la tuberculosis en **países en vías desarrollo 
 
 Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
 
-### 4.2.  
-
+### 4.2. Factibilidad de una aplicación móvil para el monitoreo de contactos de tuberculosis multidrogorresistente en Perú  
+La telemedicina ha jugado un papel crucial en la atención sanitaria en Perú durante la pandemia de COVID-19, proporcionando una solución efectiva para mantener la continuidad del cuidado y facilitar el acceso a servicios médicos a pesar de la infraestructura limitada y la falta de capacitación. Este enfoque ha demostrado ser valioso para superar barreras geográficas y mejorar la eficiencia en la atención, destacando la necesidad de fortalecer la infraestructura tecnológica y el apoyo para optimizar su uso en el futuro.
 ### 4.3.  
 
 
@@ -49,7 +49,7 @@ Referencia: Zeka, A. N., Tasbakan, S., & Cavusoglu, C. (2011). Evaluation of the
 
 [1]https://www.scielosp.org/pdf/rcsp/2015.v41n3/532-546/es
 
-[2]https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/
+[2]M. V. Villarreal, A. Salazar, F. Quispe, M. Reátegui, and J. Martínez, "Percepción de los profesionales de salud sobre la telemedicina en el contexto de la pandemia COVID-19 en Perú," Revista Peruana de Medicina Experimental y Salud Pública, vol. 38, no. 2, pp. 272-277, 2021. [Online]. Available: https://www.scielosp.org/article/rpmesp/2021.v38n2/272-277/. [Accessed: Aug. 27, 2024].
 
 [3]https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/rpmesp/v32n1/a14v32n1.pdf
 
