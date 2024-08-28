@@ -25,7 +25,7 @@ Acorde a lo publicado por el Ministerio de Salud con datos recolectados del 2019
 
 ## 4. Contexto científico
 ### 4.1 Artificial Intelligence, Radiology, and Tuberculosis: A Review 
-Debido a la alta mortalidad de la tuberculosis en países en vías desarrollo o donde existe una deficiente atención médica, se busca cerrar esa brecha mediante el uso de **inteligencia artificial en el diagnóstico de tuberculosis** mediante radiografías de torax, mostrando un avance de esta tecnología en la salud global.
+Debido a la alta mortalidad de la tuberculosis en países en vías desarrollo o donde existe una deficiente atención médica, se busca cerrar esa brecha mediante el uso de **inteligencia artificial en el diagnóstico de tuberculosis** mediante radiografías de torax desde un **diagnóstico asistido por computadora hasta algoritmos avanzados**. Se muestra como el desarrollo de esta tecnología podría mejorar la calidad vida en un futuro.
 
 Kulkarni, S., & Jha, S. (2020). Artificial Intelligence, Radiology, and Tuberculosis: A Review. Academic radiology, 27(1), 71–75. https://doi.org/10.1016/j.acra.2019.10.003
 
