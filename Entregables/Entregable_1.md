@@ -22,3 +22,6 @@ Según la Organización Panamericana de la Salud, el Perú tiene la mayor incide
 Un total de 129 contactos intradomiciliarios, de 29 CI con TB-MDR, identificados en diez centros de salud de Lima Sur se registraron en el AM-ODK. El promedio de contactos por CI fue 4,5 (desviación estándar [DE]: 2,3; rango: 1-11), 57% eran mujeres, la edad promedio fue 27 años (DE: 19,5; rango: 1-86) y 50 (38,8%) eran niños. Solo un CI rechazó participar en el estudio. [3]
 
 Acorde a lo publicado por el Ministerio de Salud con datos recolectados del 2019 al 2022, aun con una dismuinución de casos, se presento un incrementeo del porcentaje de casos de TB en población de 40 a 80 años, a su vez tambien, un incremento de proporción de casos de TB resistente en Pasco y Junín [4]
+
+## 4. Contexto científico
+### 4.1 
